@@ -1,0 +1,11 @@
+﻿Console.Clear();
+Console.ForegroundColor = ConsoleColor.DarkYellow; 
+Console.WriteLine("O QUE É O QUE É");
+Console.ResetColor();
+Console.WriteLine(" O que é, o que é tem coroa e escamas, mas não é peixe?");
+Thread.Sleep (1000); Console.WriteLine("...");
+Thread.Sleep (1000); Console.WriteLine("...");
+Thread.Sleep (1000); Console.WriteLine("...");
+Thread.Sleep (1000); Console.WriteLine("...");
+Thread.Sleep (1000); Console.WriteLine("...");
+Console.WriteLine ("O ABACAXI!!!");
